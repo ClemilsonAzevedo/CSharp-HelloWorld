@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Clemilson Azevedo\\Documents\\learning\\Documentacao\\C#\\helloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Clemilson Azevedo\\Documents\\learning\\Documentacao\\C#\\helloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Clemilson Azevedo\\Documents\\learning\\Documentacao\\C#\\helloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Clemilson Azevedo\\Documents\\learning\\Documentacao\\C#\\helloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Clemilson Azevedo\\Documents\\learning\\Documentacao\\C#\\helloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Clemilson Azevedo\\Documents\\learning\\Documentacao\\C#\\helloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "c:\\Users\\Clemilson Azevedo\\Documents\\learning\\Documentacao\\C#\\helloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\Clemilson Azevedo\\Documents\\learning\\Documentacao\\C#\\helloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Clemilson Azevedo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Clemilson Azevedo\\Documents\\learning\\Documentacao\\C#\\helloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Clemilson Azevedo\\Documents\\learning\\Documentacao\\C#\\helloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Clemilson Azevedo\\AppData\\Roaming\\NuGet\\NuGet.Config"
